@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dsw2025Ej15.Data\Dsw2025Ej15.Data.csproj" />
+    <ProjectReference Include="..\Dsw2025Ej15.Domain\Dsw2025Ej15.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
